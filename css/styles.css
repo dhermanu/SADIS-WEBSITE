@@ -157,9 +157,12 @@ ul.nav a{
 
 ul.nav a:hover {
     color: #2574a9 !important;
-    font-size: 36pt;
     font-weight: bold;
-    border-bottom: 8px solid #ffd700;
+}
+
+.dropdownNav a:hover{
+    color: #2574a9 !important;
+    font-size: 36pt;
 }
 
 .activeLink {
